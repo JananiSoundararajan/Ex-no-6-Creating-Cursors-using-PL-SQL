@@ -15,7 +15,7 @@ DEVELOPED BY : JANANI.S
 REG NO:212222230049
 ```
 ### Create employee table:
-```
+```sql
 CREATE TABLE employee (
   empid NUMBER,
   empname VARCHAR(20),
@@ -27,7 +27,7 @@ INSERT INTO employee VALUES (1, 'Aarthi', 'Sales', 60000);
 INSERT INTO employee VALUES (2, 'Pooja', 'Marketing', 500000);
 ````
 ### PLSQL Cursor code:
-```
+```sql
 DECLARE
    CURSOR employee_cursor IS
    SELECT empid,empname,dept,salary
