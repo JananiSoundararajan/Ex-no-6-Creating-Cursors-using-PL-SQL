@@ -58,4 +58,4 @@ END;
 ![cursor op](https://github.com/JananiSoundararajan/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119477549/e14b4517-9d41-411a-9dc3-19e81abb71bf)
 
 ### Result:
-         A cursor is created using PL/SQL.
+         The program for creating cursor is executed successfully.
